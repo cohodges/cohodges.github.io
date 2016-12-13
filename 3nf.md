@@ -53,7 +53,7 @@ A table is in First Normal Form if:
 </table>
 
     
-*   or several values of the same type of data in a single column
+or several values of the same type of data in a single column
 
 
 <table>
@@ -91,11 +91,13 @@ A table is in First Normal Form if:
     *   A primary key is a column in a table that makes each record unique
 
 A table is in Second Normal Form if:
+
 *	It is in 1nf
 *	It has no <span style="text-decoration:underline;">functional dependencies</span>
     *   Basically, if all the columns in the table are part of the primary key (composite key) or if the table has a single column primary key
 
 And finally, a table is in Third Normal Form if:
+
 *	It is in 2nf
 *	It has no <span style="text-decoration:underline;">transitive dependencies</span>
     *   Transitive dependencies occur when a non-key column is related to any of the other non-key columns, such that changing one of the non-key columns results in another column to change
