@@ -10,6 +10,7 @@ Getting your tables to third normal form may seem easy enough--and it really isn
 Well, one part of being in 3nf is being in 2nf. And one part of being in 2nf is being in 1nf. Let’s start at 1nf.
 
 A table is in First Normal Form if:
+
 *   Each row of data contains <span style="text-decoration:underline;">atomic values</span>
     *   A table with atomic values can’t have multiple columns with the same type of data
 
@@ -50,8 +51,10 @@ A table is in First Normal Form if:
 </tbody>
 
 </table>
+
     
-    *   or several values of the same type of data in a single column
+*   or several values of the same type of data in a single column
+
 
 <table>
 
