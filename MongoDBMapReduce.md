@@ -3,7 +3,7 @@ layout: page
 title: MongoDB & Map Reduce
 ---
 
-## MongoDB & Map Reduce
+
 December 13, 2016
 
 One of the rudiments I completed for CPSC 350 during this semster was practice using Map Reduce to execute processes on large sets of data, stored in MongoDB.
