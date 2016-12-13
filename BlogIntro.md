@@ -3,6 +3,8 @@ layout: page
 title: About me
 ---
 
+* * *
+
 When I was in high school, I did a project for my College Preparation class in which I took some personality tests and then researched a career that fit my personality. I chose to research “personal financial adviser,” and from there I did my own research on the career of accounting. Accounting appealed to me, because it seemed like something I could be good at and something that could provide me with a stable career that would allow me to support the people I love.
 
 * * *
