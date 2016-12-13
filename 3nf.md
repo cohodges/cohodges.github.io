@@ -12,9 +12,78 @@ Well, one part of being in 3nf is being in 2nf. And one part of being in 2nf is 
 A table is in First Normal Form if:
 *   Each row of data contains <span style="text-decoration:underline;">atomic values</span>
     *   A table with atomic values can’t have multiple columns with the same type of data
-   
+
+<table>
+
+<tbody>
+
+<tr>
+
+<th>Teacher</th>
+
+<th>Student1</th>
+
+<th>Student2</th>
+
+</tr>
+
+<tr>
+
+<td>Professor Machande</td>
+
+<td>Cole</td>
+
+<td>Trevor</td>
+
+</tr>
+
+<tr class="even">
+
+<td>Professor Henderson</td>
+
+<td>Ayush</td>
+
+<td>Kyle</td>
+
+</tr>
+
+</tbody>
+
+</table>
+    
     *   or several values of the same type of data in a single column
 
+<table>
+
+<tbody>
+
+<tr>
+
+<th>Food_name</th>
+
+<th>Ingredients</th>
+
+</tr>
+
+<tr>
+
+<td>Bread</td>
+
+<td>flour, yeast, oil</td>
+
+</tr>
+
+<tr class="even">
+
+<td>Salad</td>
+
+<td>spinach, walnut, avocado</td>
+
+</tr>
+
+</tbody>
+
+</table>
 *   Each row of data has a unique identifier, known as a <span style="text-decoration:underline;">primary key</span>
     *   A primary key is a column in a table that makes each record unique
 
