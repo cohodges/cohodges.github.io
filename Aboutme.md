@@ -16,3 +16,5 @@ So, when I came to UMW, I decided to try out accounting. I also thought that sin
 I am currently job hunting for a position at a public accounting firm for after I graduate in May, 2017.
 
 * * *
+
+![Cole Hodges](https://www.facebook.com/photo.php?fbid=10210318323981213&set=a.1581845232777.77102.1435084369&type=3&theater)
