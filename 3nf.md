@@ -4,6 +4,7 @@ title: 3rd Normal Form
 ---
 
 ## What exactly is 3nf?
+December 13, 2016
 
 Getting your tables to third normal form may seem easy enough--and it really isn’t _that_ complicated--but I have had to double and triple check during this semester. I think I understand and have properly implemented 3nf, but then again I’m not so sure. So, what is 3nf exactly?
 

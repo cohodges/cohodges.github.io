@@ -4,6 +4,7 @@ title: Course comments
 ---
 
 ## CPSC 350 end of semester comments/thoughts
+December 13, 2016
 
 To start, I think this class has been awesome overall. The material has been some of the most interesting to me out of all the CPSC classes I’ve taken so far. I had been interested in learning about databases and SQL, and learning to create web apps and websites is really cool. I enjoyed having your videos available to watch at any time, and I even thought the xp system was a cool idea.
 
