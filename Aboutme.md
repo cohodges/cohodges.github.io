@@ -17,4 +17,4 @@ I am currently job hunting for a position at a public accounting firm for after 
 
 * * *
 
-![Test Image](public/images/14117979_10210318323981213_951149530387209065_n.jpg)
+![Small Test Image](public/images/14117979_10210318323981213_951149530387209065_n.jpg)
