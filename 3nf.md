@@ -5,14 +5,27 @@ title: 3rd Normal Form
 
 ## What exactly is 3nf?
 
-When I was in high school, I did a project for my College Preparation class in which I took some personality tests and then researched a career that fit my personality. I chose to research “personal financial adviser,” and from there I did my own research on the career of accounting. Accounting appealed to me, because it seemed like something I could be good at and something that could provide me with a stable career that would allow me to support the people I love.
+Getting your tables to third normal form may seem easy enough--and it really isn’t _that_ complicated--but I have had to double and triple check during this semester. I think I understand and have properly implemented 3nf, but then again I’m not so sure. So, what is 3nf exactly?
 
-* * *
+Well, one part of being in 3nf is being in 2nf. And one part of being in 2nf is being in 1nf. Let’s start at 1nf.
 
-So, when I came to UMW, I decided to try out accounting. I also thought that since I had the courses to spare, I should study something else I was interested in and add a second major. I didn’t really have any idea what computer science was, and I had never coded in my life, but I decided to try out computer science during my second year at UMW. I had friends majoring in the subject, and I wanted to learn more about it. Now, I am in my senior year at UMW, double-majoring in accounting and computer information systems.
+A table is in First Normal Form if:
+*   Each row of data contains <span style="text-decoration:underline;">atomic values</span>
+    *   A table with atomic values can’t have multiple columns with the same type of data
+   
+    *   or several values of the same type of data in a single column
 
-* * *
+*   Each row of data has a unique identifier, known as a <span style="text-decoration:underline;">primary key</span>
+    *   A primary key is a column in a table that makes each record unique
 
-I am currently job hunting for a position at a public accounting firm for after I graduate in May, 2017.
+A table is in Second Normal Form if:
+*	It is in 1nf
+*	It has no <span style="text-decoration:underline;">functional dependencies</span>
+    *   Basically, if all the columns in the table are part of the primary key (composite key) or if the table has a single column primary key
 
-* * *
+And finally, a table is in Third Normal Form if:
+*	It is in 2nf
+*	It has no <span style="text-decoration:underline;">transitive dependencies</span>
+    *   Transitive dependencies occur when a non-key column is related to any of the other non-key columns, such that changing one of the non-key columns results in another column to change
+
+Achieving 3nf in your tables really isn’t that confusing, at least not when you lay out all the requirements and make sure that you meet them.
